@@ -7,13 +7,6 @@
 ## 📝 DESCRIÇÃO DO PROJETO:
 <p align="center">O objetivo desse Projeto é utilizar o Spring Boot para desenvolver uma API Rest, com algumas funcionalidades. A ideia é desenvolver um CRUD, sendo as quatro operações fundamentais das aplicações: cadastro, leitura, atualização e exclusão de informações.
 
-Objetivos:
-
--Desenvolvimento de uma API Rest
--CRUD (Create, Read, Update e Delete)
--Validações
--Paginação e ordenação
-
 Isto é, será desenvolvido um CRUD de uma API Rest usando o Spring Boot.
 Trabalharemos em um projeto de uma clínica médica fictícia, que precisa de um aplicativo para monitorar o cadastro de médicos, pacientes e agendamento de consultas.
 
