@@ -26,7 +26,6 @@ Será um aplicativo com algumas opções, em que a pessoa que for usar pode faze
 <table>
   <tr>
     <td><bold>Application</bold></td>
-    <td><bold>Version</bold></td>
   </tr>
   <tr>
     <td>Spring Boot 3</td>
@@ -89,11 +88,10 @@ Mas para testarmos a API, usaremos o Insomnia, sendo uma ferramenta usada para t
 <h2 align="left">📁 PROJETO: </h2>
 
 - Clonar o Repositório <br>
-  `git clone https://github.com/EullerFPassos/github
+  `git clone https://github.com/Smile-JRG/CRUD_LAB_03
 
 - Arquivos Git no logo abaixo: <br>
-<a href="https://github.com/EullerFPassos/github.git">
-  <img src="https://cdn.icon-icons.com/icons2/1673/PNG/512/downloadoutline_110860.png" alt="GitHub" style="width:50px;">
+<a href="[https://github.com/Smile-JRG/CRUD_LAB_03]">
 </a>
 
 <br>
